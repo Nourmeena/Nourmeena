@@ -13,7 +13,7 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="300" hight="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```javascript
 const developer = {
