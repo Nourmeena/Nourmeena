@@ -160,24 +160,6 @@ Cairo, Egypt | April 2024 – October 2024
 
 ---
 
-## 🏆 Experience 
-
-<div align="center">
-
-### 🎖️ GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=nourmeena&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-
-### 🏅 Badges & Certifications
-<p>
-  <img src="https://img.shields.io/badge/AWS-Certified-orange?style=for-the-badge&logo=amazon-aws" alt="AWS Certified" />
-  <img src="https://img.shields.io/badge/Docker-Expert-blue?style=for-the-badge&logo=docker" alt="Docker Expert" />
-  <img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react" alt="React Advanced" />
-</p>
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
